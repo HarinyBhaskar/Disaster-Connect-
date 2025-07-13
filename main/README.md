@@ -43,32 +43,4 @@ Built with a mission to save lives by reducing response times, ResQ integrates *
 |:---------------------:|:---------------------------:|
 | ![Flood Mapping Output](public/flood_outcome.png) | ![Wildfire Detection Output](public/wildefire_outcome.png) |
 
----
 
-## 🎥 Project Demo
-
-Watch our full project demo and pitch here:  
-[![Watch the video](https://img.youtube.com/vi/XzWfe2Ka4xY/0.jpg)](https://youtu.be/XzWfe2Ka4xY)
-
----
-
-## 📢 Get Involved
-I am expanding ResQ to detect tsunamis, landslides, and automate real-time social media alerts.  
-Feel free to **fork, star ⭐, and contribute** to make disaster rescue smarter and faster!
-
----
-
-## 📬 Contact
-For collaborations, ideas, or suggestions:  
-📧 Email: [deekshitha1325@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/deekshitha-m-b02649254/]
-
----
-
-# 🚀 Together, let's build a safer, smarter world.  
-*"Technology shouldn't wait for disaster. It should act before it's too late."*
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
